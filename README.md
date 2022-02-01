@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Twitter clone built in rails using devise as part of the Odin Project Tutorial.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This code was written by Any Leverenz as part of his twitter clone tutorial at: https://www.youtube.com/watch?v=5gUysPm64a4&t=1s
